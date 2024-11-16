@@ -1,5 +1,5 @@
 # Pytest with Boto3 for AWS Testing
-#Work in progress
+# Work in progress
 
 ## Description
 This project demonstrates how to use **Pytest** with **Boto3** to write and run automated tests for AWS services. It covers testing scenarios such as S3 bucket creation, DynamoDB operations, and Lambda function invocation.
