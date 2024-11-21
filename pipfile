@@ -13,4 +13,3 @@ boto3 = "*"
 moto = "*"
 placebo = "*"
 sphinx = "*"
-
